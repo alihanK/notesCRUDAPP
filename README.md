@@ -23,6 +23,7 @@ FLUTTER CRUD APP WITH FIREBASE
 
 ![firebaseupdateddatadisplay](https://github.com/alihanK/notesCRUDAPP/assets/82571528/17ff6a7d-dd0b-4d58-8aca-fb9d10836ad8)
 
+LAST DISPLAY BOTTOM SCREEN IS ABOUT AFTER THE DELETE BUTTON AND DISPLAY THE RESULT LAST VIEW OF FIREBASE COLLECTION
 
 ![deleteddataandemptyfirebasecollection](https://github.com/alihanK/notesCRUDAPP/assets/82571528/bd845ba2-78bd-4a03-b2ee-a3e791b72a53)
 
