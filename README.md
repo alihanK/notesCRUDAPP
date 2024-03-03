@@ -1,16 +1,32 @@
-# crudapp
+# NOTESAPP
 
-A new Flutter project.
+FLUTTER CRUD APP WITH FIREBASE
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![crudpicmenu](https://github.com/alihanK/notesCRUDAPP/assets/82571528/4bb17145-73c3-461a-a0db-8e293eb1fc69)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![savedisplaycrud](https://github.com/alihanK/notesCRUDAPP/assets/82571528/e9745440-85f3-4a7f-9f40-66c94f099abc)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![saveddatacrud](https://github.com/alihanK/notesCRUDAPP/assets/82571528/e0e5d22b-7397-4a75-974a-17763cf5a63a)
+
+
+![firebasesdatadisplayscreenshot](https://github.com/alihanK/notesCRUDAPP/assets/82571528/b41da657-e472-4ddb-9441-42a4dae800ca)
+
+
+![dataupdatenotedisplayscreen](https://github.com/alihanK/notesCRUDAPP/assets/82571528/12295e81-4c0c-4374-8924-ce4e0158b962)
+
+
+![dataupdatescreen](https://github.com/alihanK/notesCRUDAPP/assets/82571528/54b42e29-8c87-4055-9628-19ba9c7e5110)
+
+
+![firebaseupdateddatadisplay](https://github.com/alihanK/notesCRUDAPP/assets/82571528/17ff6a7d-dd0b-4d58-8aca-fb9d10836ad8)
+
+
+![deleteddataandemptyfirebasecollection](https://github.com/alihanK/notesCRUDAPP/assets/82571528/bd845ba2-78bd-4a03-b2ee-a3e791b72a53)
+
+
+
+
+
